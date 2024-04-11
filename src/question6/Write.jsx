@@ -6,6 +6,7 @@ function Write() {
 
   return (
     <div>
+      <h2>Skriv i Write komponenten:</h2>
       <input
         type="text"
         value={input}

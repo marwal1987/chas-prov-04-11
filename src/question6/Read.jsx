@@ -6,7 +6,8 @@ export default function Read() {
 
   return (
     <div>
-      <h2>{input}</h2>
+      <h2>Läs i Read komponenten:</h2>
+      <p>{input}</p>
     </div>
   );
 }
